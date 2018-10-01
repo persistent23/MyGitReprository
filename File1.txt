@@ -1,11 +1,7 @@
 This  is a git demo
 
-<<<<<<< HEAD
---> change-1
-
---> change-2
-=======
 Change --> 1
 
 Change --> 2
->>>>>>> bug123
+
+change3
