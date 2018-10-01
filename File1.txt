@@ -1,5 +1,5 @@
-this  is a git demo
+This  is a git demo
 
-change1
+Change --> 1
 
-change2
+Change --> 2
