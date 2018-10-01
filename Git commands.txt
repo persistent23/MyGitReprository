@@ -1,0 +1,18 @@
+$ pwd
+
+$ cd C:\GitDemo
+
+$ git config --global user.name "swathi sangineni"
+
+$ git config --global user.email "swathi_sangineni@persistent.co.in"
+
+$ git config user.name
+
+$ git config user.email
+
+$ git config --list
+
+$ git config --global core.editor notepad
+
+$ git config core.editor
+notepad
