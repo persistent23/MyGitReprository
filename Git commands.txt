@@ -16,3 +16,7 @@ $ git config --global core.editor notepad
 
 $ git config core.editor
 notepad
+
+$ git init
+
+$ git status
